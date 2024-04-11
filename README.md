@@ -1,4 +1,4 @@
-#this project
+# this project
 this is a browser coded on python i'm working on it to learn new stuff in python and more
 i started the project a few month ago and i'll add new features
 i'm happy to share my projects for people and let them try it
