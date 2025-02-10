@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋 I'm oc4</h1>
 
-<p align="center">
-  <img src="https://github.com/oc4tche/oc4tche/blob/main/githubbanner.gif" style="border-radius: 10px; width: 100%; max-height: 300px;" />
-</p>
 
-##
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=oc4tche&theme=darkhub&no-bg=true&no-frame=true" alt="GitHub Trophies" />
