@@ -22,4 +22,6 @@
 
 <div align="left" style="margin-top: 20px;">
   <img src="https://komarev.com/ghpvc/?username=oc4tche&color=blue&style=flat" alt="Profile Views" width="120" />
+  <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=blue&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/oc4tche" alt="Profile Stars"></a>
+  <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=blue&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/oc4tche" alt="Profile Forks"></a>
 </div>
