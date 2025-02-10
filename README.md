@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋 I'm oc4</h1>
 
 ```javascript
-
 class Attributes {
     constructor() {
-        this.langs = ['French', 'English'];
+        this.langs = ['English', 'Russian'];
         this.age = null;
-        this.learning = 'JavaScript';
         this.specialities = 'automation';
         this.environment = 'VSCode';
     }
@@ -21,13 +19,11 @@ class Attributes {
 
     coding() {
         return {
-            learning: this.learning,
             specialities: this.specialities,
             environment: this.environment
         };
     }
 }
-
 ```
 
 **Programming Languages:**
@@ -40,6 +36,8 @@ class Attributes {
 
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
+
+##
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=oc4tche&theme=darkhub&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
