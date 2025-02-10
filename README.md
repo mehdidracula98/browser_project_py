@@ -9,7 +9,7 @@ class Attributes {
         this.environment = 'VSCode';
     }
 
-    static contact() {
+    contact() {
         return 'No contact information provided.';
     }
 
