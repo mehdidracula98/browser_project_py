@@ -5,11 +5,11 @@
 ##
 ### 👤 Informations
 
-<a href="https://t.me/terek3">
-  <img src="https://github.com/Terek7/Terek7/blob/main/telegram%20(1).svg" alt="Telegram" width="50" height="50" style="color: #0088cc;" />
+<a href="https://t.me/oc4tche">
+  <img src="https://github.com/Terek7/Terek7/blob/main/telegram.svg" alt="Telegram" width="50" height="50" style="color: #0088cc;" />
 </a>
 <a href="https://discord.com/users/1221728197390106657">
-  <img src="https://github.com/Terek7/Terek7/blob/main/discord%20(1).svg" alt="Discord" width="50" height="50" style="color: #1DA1F2;" />
+  <img src="https://github.com/Terek7/Terek7/blob/main/discord.svg" alt="Discord" width="50" height="50" style="color: #1DA1F2;" />
 </a>
 
 <div align="left" style="margin-top: 20px;">
