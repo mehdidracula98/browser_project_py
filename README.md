@@ -1,3 +1,6 @@
+Hi 👋 I'm oc4
+
+##
 <p align="center">
   <img src="https://github.com/oc4tche/oc4tche/blob/main/githubbanner.gif" style="border-radius: 10px; width: 100%; max-height: 300px;" />
 </p>
