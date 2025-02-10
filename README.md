@@ -2,12 +2,7 @@
   <img src="https://github.com/oc4tche/oc4tche/blob/main/githubbanner.gif" style="border-radius: 10px; width: 100%; max-height: 300px;" />
 </p>
 
-
-
-
-
 ##
-### 🏆 Trophy
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=oc4tche&theme=darkhub&no-bg=true&no-frame=true" alt="GitHub Trophies" />
