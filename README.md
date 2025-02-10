@@ -30,7 +30,7 @@ class Attributes {
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![JavaScript](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-
+![Npm](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs&logoColor=white&color=6aa6f8)
 
 **Tools and Services:**
 
